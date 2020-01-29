@@ -1,0 +1,22 @@
+{
+  "name": "pkc_mailer",
+  "version": "1.0.0",
+  "description": "Gestión de correos plataforma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/falces/pkc_Mailer.git"
+  },
+  "author": "falces@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/falces/pkc_Mailer/issues"
+  },
+  "homepage": "https://github.com/falces/pkc_Mailer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
